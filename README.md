@@ -1,6 +1,6 @@
 #  Code Challenges
 
-#### By Sharon Njorog
+#### By Sharon Njoroge
 
 ## Description
 This project contains three JavaScript challenges designed to strengthen programming skills:
