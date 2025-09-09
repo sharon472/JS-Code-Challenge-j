@@ -42,7 +42,7 @@ To run this project locally:
 ---
 
 ## Live Link
-[Add your GitHub Pages link here once deployed]
+[https://github.com/sharon472/JS-Code-Challenge-j/commits/main/]
 
 ---
 
